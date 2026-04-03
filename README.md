@@ -21,6 +21,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcssantarosa/)](https://www.linkedin.com/in/danielcssantarosa/)
+[![Linkedin](https://img.shields.io/badge/-DanielSantaRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcssantarosa/)](https://www.linkedin.com/in/danielcssantarosa/)
 [![Gmail Badge](https://img.shields.io/badge/-santarosa4041@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santarosa4041@gmail.com)](mailto:santarosa4041@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/danielsantarosa?label=follow&style=social)](https://github.com/danielsantarosa)
