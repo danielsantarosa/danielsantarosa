@@ -49,8 +49,8 @@
 </table>
 </div>
 
+## Spotify
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ezze61tlwp47duzyl42s6fk5z">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ezze61tlwp47duzyl42s6fk5z" alt="Data Card for Spotify">
 </a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ezze61tlwp47duzyl42s6fk5z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
