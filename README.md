@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/refs/heads/main/img/bannerdavi.gif" alt="banner"/>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/refs/heads/main/img/bannerdavi.gif" alt="banner"/></code>
 ## Olá, meu nome é Daniel!
 
 ## Sobre mim
