@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/refs/heads/main/img/bannerdavi.gif" alt="banner"/>
+<img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/refs/heads/main/img/bannerdavi.gif" alt="banner">
 ## Olá, meu nome é Daniel!
 
 ## Sobre mim
