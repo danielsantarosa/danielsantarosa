@@ -33,6 +33,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-DanielSantaRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcssantarosa/)](https://www.linkedin.com/in/danielcssantarosa/)
-[![Gmail Badge](https://img.shields.io/badge/-santarosa4041@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santarosa4041@gmail.com)](mailto:santarosa4041@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/danielsantarosa?label=follow&style=social)](https://github.com/danielsantarosa)
+<td><a href="mailto:santarosa4041@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/danielcssantarosa/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
