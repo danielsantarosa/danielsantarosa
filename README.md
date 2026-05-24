@@ -1,11 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=9&reversal=false&textBg=false)
 
-<h1 align="center">Oi 👋, sou o Daniel</h1>
+<br>
 
-## Sobre mim
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação na PUC Minas.
-- 🌱 Aprendendo mais sobre Python e Ciência de Dados.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monocraft&duration=3000&pause=500&color=44F7C9&width=450&lines=Oi%2C+sou+o+Daniel!;Estudando+Sistemas+de+Informa%C3%A7%C3%A3o.;Aprendendo+sobre+Ci%C3%AAncia+de+Dados.)](https://git.io/typing-svg)
 
 
 ## 🚀 Stacks
@@ -23,4 +20,4 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ezze61tlwp47duzyl42s6fk5z" alt="Data Card for Spotify">
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=9&reversal=false&textBg=false&section=footer)
