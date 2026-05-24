@@ -12,6 +12,24 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,js,html,css,bootstrap,mysql,git,github,linux)](https://skillicons.dev)
 
+## Onde me encontrar
+
+<div>
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="mailto:santarosa4041@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Gmail-Dark.svg" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/danielcssantarosa/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="50px" height="50px"/></a>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@danielsantarosa">WakaTime</a></td>
@@ -23,24 +41,6 @@
 </td>
 </tr>
 </table>
-
-## Onde me encontrar
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="mailto:santarosa4041@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/danielcssantarosa/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-</div>
 
 ## Spotify
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ezze61tlwp47duzyl42s6fk5z">
