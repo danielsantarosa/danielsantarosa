@@ -18,10 +18,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsantarosa&show_icons=true&locale=en&layout=compact" alt="danielsantarosa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsantarosa&show_icons=true&locale=en" alt="danielsantarosa" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsantarosa&" alt="danielsantarosa" /></p>
 
 ---
