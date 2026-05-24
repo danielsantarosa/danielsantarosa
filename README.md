@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Sou o Daniel</h1>
+<h1 align="center">Oi 👋, sou o Daniel</h1>
 
 ## Sobre mim
 
@@ -6,7 +6,6 @@
 - 🎓 Estudando Sistemas de Informação na PUC Minas.
 - 🌱 Aprendendo mais sobre Python e Ciência de Dados.
 
----
 
 ## 🚀 Stacks
 
@@ -17,7 +16,11 @@
 <a href="mailto:santarosa4041@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Gmail-Dark.svg" width="50px" height="50px"/></a>
 <a href="https://www.linkedin.com/in/danielcssantarosa/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="50px" height="50px"/></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsantarosa&show_icons=true&locale=en&layout=compact" alt="danielsantarosa" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielsantarosa&show_icons=true&locale=en" alt="danielsantarosa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsantarosa&" alt="danielsantarosa" /></p>
 
 <table>
 <tr>
