@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
 <h1 align="center">Oi 👋, sou o Daniel</h1>
 
 ## Sobre mim
@@ -21,3 +23,4 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ezze61tlwp47duzyl42s6fk5z" alt="Data Card for Spotify">
 </a>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
