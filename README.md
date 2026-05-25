@@ -16,7 +16,7 @@
 ## Wakatime
 <!--START_SECTION:waka-->
 
-```json
+```python
 Total Time: 10 hrs 22 mins
 
 JavaScript   4 hrs 37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.45 %
