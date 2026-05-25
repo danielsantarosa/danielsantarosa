@@ -16,9 +16,7 @@
 ## Wakatime
 <!--START_SECTION:waka-->
 
-```python
-From: 14 May 2026 - To: 25 May 2026
-
+```txt
 Total Time: 10 hrs 22 mins
 
 JavaScript   4 hrs 37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.45 %
