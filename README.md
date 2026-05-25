@@ -16,12 +16,15 @@
 ## Wakatime
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   4 hrs 37 mins         ███████████░░░░░░░░░░░░░░   44.45 %
-HTML         4 hrs 13 mins         ██████████░░░░░░░░░░░░░░░   40.61 %
-CSS          1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-JSON         17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown     3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```python
+From: 14 May 2026 - To: 25 May 2026
+
+Total Time: 10 hrs 22 mins
+
+JavaScript   4 hrs 37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.45 %
+HTML         4 hrs 13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.61 %
+CSS          1 hr 10 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.36 %
+Markdown     3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.51 %
 ```
 
 <!--END_SECTION:waka-->
