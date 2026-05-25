@@ -14,8 +14,6 @@
 <a href="https://www.linkedin.com/in/danielcssantarosa/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="50px" height="50px"/></a>
 
 ## Wakatime
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=danielsantarosa&custom_title=WakaTime+Stats&card_width=450&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=4)](https://nice-readme.vercel.app/wakatime)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
