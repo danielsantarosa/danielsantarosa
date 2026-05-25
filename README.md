@@ -25,8 +25,6 @@ CSS          1 hr 10 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Markdown     3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.51 %
 ```
 
-md <img src="wakatime/stats.svg?v=1" height="300"/>
-
 <!--END_SECTION:waka-->
 
 ## Spotify
