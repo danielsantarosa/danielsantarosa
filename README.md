@@ -27,8 +27,6 @@ Markdown     3 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-md <img src="wakatime/stats.svg?v=1" height="300"/>
-
 ## Spotify
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ezze61tlwp47duzyl42s6fk5z">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ezze61tlwp47duzyl42s6fk5z" alt="Data Card for Spotify">
