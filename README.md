@@ -15,6 +15,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   4 hrs 37 mins         ███████████░░░░░░░░░░░░░░   44.45 %
+HTML         4 hrs 13 mins         ██████████░░░░░░░░░░░░░░░   40.61 %
+CSS          1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+JSON         17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Markdown     3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Spotify
