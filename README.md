@@ -1,8 +1,7 @@
 [<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=header"/>](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&reversal=false&textBg=false)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=8B31F7&width=435&lines=Eu+sou+o+Daniel!;Estudando+Sistemas+de+Informa%C3%A7%C3%A3o;Aprendendo+sobre+Engenharia+de+Dados" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=8B31F7&vCenter=true&width=500&lines=Eu+sou+o+Daniel!;Estudando+Sistemas+de+Informa%C3%A7%C3%A3o;Aprendendo+sobre+Engenharia+de+Dados" alt="Typing SVG" /></a>
 
 <br>
 
