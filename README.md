@@ -27,9 +27,5 @@ Binary       1 hr 4 mins           ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## Spotify
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ezze61tlwp47duzyl42s6fk5z">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ezze61tlwp47duzyl42s6fk5z" alt="Data Card for Spotify">
-</a>
 
 [<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&reversal=false&textBg=false&section=footer)
